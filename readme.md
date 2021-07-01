@@ -1,0 +1,2 @@
+O curso tem sido intenso para mim que venho de uma área completamente diferente da programação, mas estou amando cada minuto de dedicação e me perguntando o porquê de não ter migrado antes.
+Tenho tido algumas dificuldades, mas, graças a Deus, a comunidade no Slack tem sido ótima para mim e o pessoal tem me ajudado bastante.
